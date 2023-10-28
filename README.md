@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pedrr01&show_icons=true&count_private=true&hide_border=true&title_color=9dc9ac&icon_color=9dc9ac&text_color=c9d1d9&bg_color=0d1117" alt="Stats do Github de Pedro Vitor" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrr01&layout=compact&hide_border=true&title_color=9dc9ac&text_color=9dc9ac&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrr01&layout=compact&hide_border=true&title_color=9dc9ac&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ##
