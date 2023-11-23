@@ -3,11 +3,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e3ba6a&size=35&center=true&vCenter=true&width=1000&lines=<+Hello+World,+I'm+Pedro+/>)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pedrr01&show_icons=true&count_private=true&hide_border=true&title_color=4d686f&icon_color=e3ba6a&text_color=364461&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrr01&layout=compact&hide_border=true&title_color=4d686f&text_color=364461&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pedrr01&show_icons=true&count_private=true&hide_border=true&title_color=4d686f&icon_color=4d686f&text_color=4d686f&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrr01&layout=compact&hide_border=true&title_color=4d686f&text_color=4d686f&bg_color=0d1117" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4d686f&size=35&center=true&vCenter=true&width=1000&lines=I'm+from+Brazil🌎;Computer+Engineering+Student👨‍💻;Welcome🖖)](https://git.io/typing-svg)
+
+<h2>About me:</h2>
+
+```python
+                                              person = {
+                                                  'name': 'Pedro Vitor',
+                                                  'nationality': 'Brazil',
+                                                  'occupation': 'Computer Engineering Student'
+                                              }
+
+                                              while True:
+                                                  print("In search of knowledge")
+```
 
 <h2>Contacts:</h2>
 
