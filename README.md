@@ -34,3 +34,8 @@ Já participei de projetos financiados pela FACEPE, atuando como aluno pesquisad
   <a href="https://www.linkedin.com/in/pedro-vitor-da-silva-alves-272416282/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:pedrovitor.silva14vs@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.instagram.com/p_svitor/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedrr01/Pedrr01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedrr01/Pedrr01/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedrr01/Pedrr01/output/github-contribution-grid-snake.svg">
+</picture>
